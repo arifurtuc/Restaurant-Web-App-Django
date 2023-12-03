@@ -14,7 +14,6 @@ STATUS = (
 )
 
 
-# Create your models here.
 class Item(models.Model):
     """
     Model representing a food item in the menu.
